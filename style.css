@@ -1,5 +1,12 @@
 hr{
-    border-color: aliceblue;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 20px;
+}
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    padding: 0;
 }
 .carousel-item{
     height: 300px;
