@@ -23,6 +23,11 @@ hr{
     right: 0;
     float: right;
 }
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
 @media (max-width: 576px) { 
     .full-width {
         width: 100vw;
