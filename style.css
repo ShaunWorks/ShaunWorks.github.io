@@ -8,11 +8,20 @@ hr{
     font-size: 30px;
     padding: 0;
 }
+.btn {
+    font-family: 'IBM Plex Mono', monospace;
+}
 .carousel-item{
     height: 300px;
 } 
 .carousel-item img{
     height: 300px;
+}
+.buttons{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    float: right;
 }
 @media (max-width: 576px) { 
     .full-width {
